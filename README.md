@@ -1,4 +1,4 @@
-# meddle-project
+# middle-project
 
 **마감일자 :** 2024년 2월 26일 (월) 오후 1시
 
